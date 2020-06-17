@@ -15,7 +15,7 @@ It should happen once. A very basic integration of [Converse.js](https://convers
 <p float="left">
 <img width="403" alt="Main window" src="https://user-images.githubusercontent.com/1450983/56779297-0758ad80-67e3-11e9-95af-f2c7b4264402.png">
 <img width="403" alt="Chat" src="https://user-images.githubusercontent.com/1450983/56779327-2fe0a780-67e3-11e9-8380-97af16e3f06b.png">
-<img width="403" alt="Account form" src="https://user-images.githubusercontent.com/1450983/56779344-41c24a80-67e3-11e9-8046-de6f68565cfd.png">
+<img width="403" alt="Account form" src="https://user-images.githubusercontent.com/1450983/84831577-41fb5600-b034-11ea-8774-8d8632391a49.png">
 <img width="403" alt="Settings screen" src="https://user-images.githubusercontent.com/1450983/81833419-59808400-9548-11ea-8059-a59448d1ff7d.png">
 
 </p>
@@ -33,9 +33,9 @@ See [CHANGES.md](https://github.com/nick-denry/Chimeverse/blob/master/CHANGES.md
 
 | Operation System | Download link |
 -------------------|----------------
-| macOS            | [Chimeverse-0.1.54_x64.dmg](https://github.com/nick-denry/Chimeverse/releases/download/v0.1.54/Chimeverse-0.1.54_x64.dmg) |
-| Windows          | [Chimeverse.Setup.0.1.54_x64.exe](https://github.com/nick-denry/Chimeverse/releases/download/v0.1.54/Chimeverse.Setup.0.1.54_x64.exe) |
-| Linux DEB        | [chimeverse_0.1.54_amd64.deb](https://github.com/nick-denry/Chimeverse/releases/download/v0.1.54/chimeverse_0.1.54_amd64.deb) |
+| macOS            | [Chimeverse-0.1.55_x64.dmg](https://github.com/nick-denry/Chimeverse/releases/download/v0.1.55/Chimeverse-0.1.55_x64.dmg) |
+| Windows          | [Chimeverse.Setup.0.1.55_x64.exe](https://github.com/nick-denry/Chimeverse/releases/download/v0.1.55/Chimeverse.Setup.0.1.55_x64.exe) |
+| Linux DEB        | [chimeverse_0.1.55_amd64.deb](https://github.com/nick-denry/Chimeverse/releases/download/v0.1.55/chimeverse_0.1.55_amd64.deb) |
 
    - [All releases](https://github.com/nick-denry/Chimeverse/releases)
 
