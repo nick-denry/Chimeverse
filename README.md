@@ -1,6 +1,8 @@
-# Chimeverse
+# Chimeverse [moved]
 
-#### Jabber/XMPP client based on Converse.js and Electron
+This project has became the [Converse Desktop](https://github.com/conversejs/converse-desktop) xmmp client and will be no longer maintained.
+
+See details at https://github.com/conversejs/converse-desktop.
 
 ![Version](https://img.shields.io/npm/v/chimeverse/latest.svg)
 ![Downloads](https://img.shields.io/npm/dt/chimeverse.svg)
@@ -9,62 +11,13 @@
         <img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPayl donate button" />
     </a>
 
-It should happen once. A very basic integration of [Converse.js](https://conversejs.org/) and Electron. With OMEMO.
-
-#### Screenshots and feautures
+#### Screenshots
 <p float="left">
 <img width="403" alt="Main window" src="https://user-images.githubusercontent.com/1450983/56779297-0758ad80-67e3-11e9-95af-f2c7b4264402.png">
 <img width="403" alt="Chat" src="https://user-images.githubusercontent.com/1450983/56779327-2fe0a780-67e3-11e9-8380-97af16e3f06b.png">
 <img width="403" alt="Account form" src="https://user-images.githubusercontent.com/1450983/84831577-41fb5600-b034-11ea-8774-8d8632391a49.png">
 <img width="403" alt="Settings screen" src="https://user-images.githubusercontent.com/1450983/81833419-59808400-9548-11ea-8059-a59448d1ff7d.png">
 
-</p>
+# Thanks
 
-- Permanent account storage
-- Tray icon
-- Tray notifications
-- All the best from Converse.js like system notifications, MAM, OMEMO etc. See details at [Converse.js](https://conversejs.org/)
-
-#### Changelog
-
-See [CHANGES.md](https://github.com/nick-denry/Chimeverse/blob/master/CHANGES.md)
-
-#### Latest release installers
-
-| Operation System | Download link |
--------------------|----------------
-| macOS            | [Chimeverse-0.1.55_x64.dmg](https://github.com/nick-denry/Chimeverse/releases/download/v0.1.55/Chimeverse-0.1.55_x64.dmg) |
-| Windows          | [Chimeverse.Setup.0.1.55_x64.exe](https://github.com/nick-denry/Chimeverse/releases/download/v0.1.55/Chimeverse.Setup.0.1.55_x64.exe) |
-| Linux DEB        | [chimeverse_0.1.55_amd64.deb](https://github.com/nick-denry/Chimeverse/releases/download/v0.1.55/chimeverse_0.1.55_amd64.deb) |
-
-   - [All releases](https://github.com/nick-denry/Chimeverse/releases)
-
-#### Run with npm
-
-```
-git clone https://github.com/nick-denry/Chimeverse.git
-cd Chimeverse
-npm i
-$(npm bin)/electron-rebuild
-npm start
-```
-
-### Development
-
-Prepare
-```
-git clone https://github.com/nick-denry/Chimeverse.git
-cd Chimeverse
-npm i
-$(npm bin)/electron-rebuild
-```
-
-Build targets
-
-| Operation System | Target |
--------------------|----------------
-| macOS            | `npm run dist` |
-| Windows          | `npm run dist:win64` |
-| Linux DEB        | `npm run dist:linux64deb` |
-
-More targets could be added via `package.json`. See [electron builder docs](https://www.electron.build/configuration/configuration).
+Copyright © 2019-2020 Nick Denry and [contributors](https://github.com/nick-denry/Chimeverse/graphs/contributors).
