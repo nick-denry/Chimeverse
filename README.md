@@ -1,4 +1,4 @@
-# Chimeverse [moved]
+# Chimeverse [deprecated]
 
 This project has became the [Converse Desktop](https://github.com/conversejs/converse-desktop) xmmp client and will be no longer maintained.
 
